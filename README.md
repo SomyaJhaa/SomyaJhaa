@@ -7,7 +7,7 @@ I'm a third-year Computer Science Engineering student at NIT Patna, passionate a
 🌱 I’m currently learning Machine Learning, Data Science, and advanced Data Structures & Algorithms.
 
 ## Get in Touch
-💬 Feel free to reach out to me on [LinkedIn](#) or via [Email](mailto:somyajha99346@gmail.com).
+💬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/somya-jha/) or via [Email](mailto:somyajha99346@gmail.com).
 
 ## Fun Facts
 😄 Pronouns: She / Her  
